@@ -1,4 +1,4 @@
-# Full Stack Authentication Web App
+# Full Stack Bitnine.net Authentication Web App
 
 This is a clone of Bitnine.net website with added functionality to enables a user signup/login 
 
