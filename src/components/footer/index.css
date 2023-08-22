@@ -1,0 +1,51 @@
+footer{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background:#343a40;;
+    height: auto;
+    width: 100vw;
+    padding-top: 40px;
+    color: #fff;
+}
+
+
+.footer-container  {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100px;
+  
+}
+
+.mobilefooter {
+    display: none;
+}
+
+@media only screen and (max-width: 768px){
+    footer .container{
+        display: none;
+    }
+    .mobilefooter {
+        display: block;
+        flex:right;
+        color:gray;
+        padding: 10px;
+    
+     
+    }
+}
+
+
+.container ul {
+    padding: 50px;
+}
+.container ul li a {
+    text-decoration: none;
+    color:lightgray;
+}
+
+.container ul li {
+    list-style: none;
+}

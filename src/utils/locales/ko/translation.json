@@ -1,0 +1,16 @@
+{
+    "name": "한국인",
+    "korean": "한국인",
+
+    "loginhere": "여기에 로그인하세요",
+    "enteryouremail": "이메일을 입력하세요",
+    "enteryourpassword": "비밀번호를 입력하세요",
+    "noaccountyet": "계정이 없습니다",
+    "registerhere" : "여기에서 등록하세요",
+    "login" : "로그인",
+    "createanaccount": "여기에서 계정을 만드세요",
+    "register": "등록하다",
+    "alreadyregistered": "이미 등록",
+    "clickheretologin": "로그인하려면 여기를 클릭하세요",
+    "usercreated": "사용자가 성공적으로 생성되었습니다"
+}

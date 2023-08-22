@@ -1,0 +1,19 @@
+.mobilemenu {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    z-index: 7;
+    position:relative;
+    background:black;
+    color:white
+}
+
+.mobilemenu li {
+    list-style: none;
+    padding: 10px;
+}
+
+.mobilemenu li:hover {
+    color:#f29e0f;
+}
+

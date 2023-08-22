@@ -1,0 +1,72 @@
+.notification {
+
+    background: rgb(67,98,147);
+    background: linear-gradient(90deg, rgba(67,98,147,1) 25%, rgba(206,194,15,1) 51%, rgba(255,216,41,1) 60%);
+    
+     text-align: center;
+     color:white;
+     position: relative;
+     height:40px;
+    
+ }
+ .menu-button {
+    display: none;
+}
+ .notification a {
+     margin-top: 15px;
+     text-decoration: none;
+     color: white;
+     font-size: 21px;
+ }
+ .notification a:hover{
+     color: #f29e0f;;
+ }
+ .topbar {
+     display: flex;
+     justify-content:space-between;
+     margin: 0;
+     padding: 20px;
+     background-color: black;
+     
+ }
+ .topbar a {
+     text-decoration: none;
+ }
+
+
+ @media only screen and (max-width: 768px){
+    .navbar {
+        display: none;
+    }
+    .menu-button {
+        display:block;
+        float:left;
+        color:white;
+        padding: 10px;
+        font-size: 40px;
+    }
+}
+
+ .navbar {
+   
+    margin: 0;
+    padding: 20px;
+}
+.navbar li {
+    display:inline;
+    padding: 8px;
+}
+.navbar li a {
+    text-decoration: none;
+    color:white
+}
+
+.navbar li a:hover {
+    color:#f29e0f;
+}
+nav {
+    display: flex;
+    justify-content:flex-end;
+}
+
+
