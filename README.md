@@ -32,4 +32,4 @@ open browser by running npm start
 
 
 ## LIVE SITE
-View [LIVE](http://e-commerce-bay.vercel.app/):
+View [LIVE](https://bitnine-clone-y.vercel.app/):
